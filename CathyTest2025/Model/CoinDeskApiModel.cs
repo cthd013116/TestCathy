@@ -2,7 +2,7 @@
 {
     public class CoinDeskApiModel
     {
-        public Time _Time { get; set; }
+        public Time time { get; set; }
 
         /// <summary>
         /// 免責聲明
@@ -13,6 +13,8 @@
         /// 圖表名稱
         /// </summary>
         public string chartName { get; set; }
+
+        public BPI bpi { get; set; }
 
 
 
@@ -35,7 +37,7 @@
         public string updateduk { get; set; }
     }
 
-    public class bpi
+    public class BPI
     { 
         /// <summary>
         /// 美金
@@ -78,6 +80,6 @@
         /// <summary>
         /// 詳細匯率
         /// </summary>
-        public string rate_float { get; set; }
+        public float rate_float { get; set; }
     }
 }

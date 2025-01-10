@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\",
+  "WorkspaceRootPath": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\p10389620\\gary\\test\\cathytest2025\\model\\coindeskapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|solutionrelative:model\\coindeskapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\p10389620\\gary\\test\\cathytest2025\\controllers\\coindeskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\cthd0\\gary\\code\\test\\cathytest2025\\controllers\\coindeskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|solutionrelative:controllers\\coindeskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\p10389620\\gary\\test\\cathytest2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\cthd0\\gary\\code\\test\\cathytest2025\\model\\currencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|solutionrelative:model\\currencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\cthd0\\gary\\code\\test\\cathytest2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\p10389620\\gary\\test\\cathytest2025\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\cthd0\\gary\\code\\test\\cathytest2025\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|solutionrelative:controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\p10389620\\gary\\test\\cathytest2025\\controllers\\cointestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|solutionrelative:controllers\\cointestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\cthd0\\gary\\code\\test\\cathytest2025\\controllers\\newcoindeskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|solutionrelative:controllers\\newcoindeskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\cthd0\\gary\\code\\test\\cathytest2025\\model\\coindeskapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|solutionrelative:model\\coindeskapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\cthd0\\gary\\code\\test\\cathytest2025\\model\\newcoindeskapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|solutionrelative:model\\newcoindeskapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|c:\\users\\cthd0\\gary\\code\\test\\cathytest2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47D5F5F-2339-4973-AC63-B69544938D7B}|CathyTest2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,134 +42,132 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CoinDeskApiModel.cs",
-              "DocumentMoniker": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\Model\\CoinDeskApiModel.cs",
-              "RelativeDocumentMoniker": "Model\\CoinDeskApiModel.cs",
-              "ToolTip": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\Model\\CoinDeskApiModel.cs",
-              "RelativeToolTip": "Model\\CoinDeskApiModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T07:01:50.298Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CoinDeskController.cs",
-              "DocumentMoniker": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\Controllers\\CoinDeskController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CoinDeskController.cs",
-              "ToolTip": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\Controllers\\CoinDeskController.cs",
-              "RelativeToolTip": "Controllers\\CoinDeskController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Title": "CurrencyModel.cs",
+              "DocumentMoniker": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Model\\CurrencyModel.cs",
+              "RelativeDocumentMoniker": "Model\\CurrencyModel.cs",
+              "ToolTip": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Model\\CurrencyModel.cs",
+              "RelativeToolTip": "Model\\CurrencyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:55:21.845Z",
+              "WhenOpened": "2025-01-10T16:11:40.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\appsettings.json",
+              "ToolTip": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-09T06:52:41.718Z",
+              "WhenOpened": "2025-01-10T15:54:24.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "Controllers\\CurrencyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T06:52:31.385Z",
+              "WhenOpened": "2025-01-10T14:47:40.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:47:43.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoinDeskApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Model\\CoinDeskApiModel.cs",
+              "RelativeDocumentMoniker": "Model\\CoinDeskApiModel.cs",
+              "ToolTip": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Model\\CoinDeskApiModel.cs",
+              "RelativeToolTip": "Model\\CoinDeskApiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T07:01:50.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoinDeskController.cs",
+              "DocumentMoniker": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Controllers\\CoinDeskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoinDeskController.cs",
+              "ToolTip": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Controllers\\CoinDeskController.cs",
+              "RelativeToolTip": "Controllers\\CoinDeskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:55:21.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CoinTestController.cs",
-              "DocumentMoniker": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\Controllers\\CoinTestController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CoinTestController.cs",
-              "ToolTip": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\Controllers\\CoinTestController.cs",
-              "RelativeToolTip": "Controllers\\CoinTestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "NewCoinDeskController.cs",
+              "DocumentMoniker": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Controllers\\NewCoinDeskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewCoinDeskController.cs",
+              "ToolTip": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Controllers\\NewCoinDeskController.cs",
+              "RelativeToolTip": "Controllers\\NewCoinDeskController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T06:48:50.898Z",
               "EditorCaption": ""
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9cbc475b-2511-400a-86cb-bc256a640d44",
+        "Display": 1,
+        "X": 89,
+        "Y": 265,
+        "Width": 1553,
+        "Height": 710,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewCoinDeskApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Model\\NewCoinDeskApiModel.cs",
+              "RelativeDocumentMoniker": "Model\\NewCoinDeskApiModel.cs",
+              "ToolTip": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\Model\\NewCoinDeskApiModel.cs",
+              "RelativeToolTip": "Model\\NewCoinDeskApiModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvwsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:42:39.01Z",
+              "EditorCaption": ""
             }
           ]
         }

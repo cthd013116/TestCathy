@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CathyTest2025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5c84043589373a06f236fe8ce9cd5d90945e5a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CathyTest2025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CathyTest2025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\CathyTest2025.csproj": {}
+    "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\CathyTest2025.csproj": {}
   },
   "projects": {
-    "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\CathyTest2025.csproj": {
+    "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\CathyTest2025.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\CathyTest2025.csproj",
+        "projectUniqueName": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\CathyTest2025.csproj",
         "projectName": "CathyTest2025",
-        "projectPath": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\CathyTest2025.csproj",
-        "packagesPath": "C:\\Users\\P10389620\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P10389620\\Gary\\Test\\CathyTest2025\\obj\\",
+        "projectPath": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\CathyTest2025.csproj",
+        "packagesPath": "C:\\Users\\cthd0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cthd0\\Gary\\Code\\Test\\CathyTest2025\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\P10389620\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cthd0\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +46,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.21.0, )"
@@ -74,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
