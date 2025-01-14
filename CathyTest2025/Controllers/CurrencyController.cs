@@ -20,14 +20,14 @@ namespace CathyTest2025.Controllers
         /// 取得所有資料庫貨幣資料
         /// </summary>
         /// <returns></returns>
-        [HttpPost]
+        [HttpGet]
         [Route("GetCurrencyAll")]
         public async Task<ActionResult> GetCurrencyAll()
         {
             var repository = _repositoryFactory.CreateRepository<CurrencyModel>();
             var currency = await repository.GetAllAsync();
-            var sortedCurrency = currency.OrderBy(c => c.CurrencyEn); // 根據 CurrencyEn 屬性進行排序
-            return sortedCurrency.Count() != 0 ? Ok(sortedCurrency) : NotFound();
+            var sortedCurrencyList = currency.OrderBy(p=> p.CurrencyEn).ToList();// 根據 CurrencyEn 屬性進行排序
+            return sortedCurrencyList.Count != 0 ? Ok(sortedCurrencyList) : NotFound();
         }
 
         /// <summary>
